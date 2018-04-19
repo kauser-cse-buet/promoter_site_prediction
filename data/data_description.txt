@@ -1,0 +1,5 @@
+File descriptions
+PromoterTrain.csv - the training set
+PromoterTest.csv - the test set
+SigmaTrain.csv - the labels for the training set
+sampleSubmission.csv - a sample submission file in the correct format
